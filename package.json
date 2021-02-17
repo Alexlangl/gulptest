@@ -1,0 +1,9 @@
+{
+  "name": "gulptest",
+  "version": "1.0.0",
+  "description": "gulp test",
+  "main": "index.js",
+  "repository": "zhuxichen.cn",
+  "author": "zxc",
+  "license": "MIT"
+}
